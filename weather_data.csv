@@ -59,3 +59,45 @@ timestamp,city,forecast_date,temperature,temperature_min,temperature_max,conditi
 2026-04-27 02:18:40,manila,,29 °C,Isolated tstorms. Cloudy.,36 / 27 °C,42 °C,9 km/h,↑,1011 mbar,8 km,23 °C,32 °C
 2026-04-27 02:18:40,manila,,29 °C,Isolated tstorms late. Overcast.,36 / 26 °C,42 °C,9 km/h,↑,1011 mbar,8 km,23 °C,32 °C
 2026-04-27 02:18:40,manila,,29 °C,Isolated tstorms late. Overcast.,35 / 27 °C,42 °C,9 km/h,↑,1011 mbar,8 km,23 °C,32 °C
+2026-04-27 11:28:52,manila,,30 °C,Isolated tstorms late. Mostly cloudy.,36 / 27 °C,41 °C,21 km/h,↑,1012 mbar,8 km,23 °C,41 °C
+2026-04-27 11:28:52,manila,,30 °C,Showers late. Cloudy.,36 / 27 °C,40 °C,21 km/h,↑,1012 mbar,8 km,23 °C,41 °C
+2026-04-27 11:28:52,manila,,30 °C,Isolated tstorms late. Mostly cloudy.,36 / 27 °C,41 °C,21 km/h,↑,1012 mbar,8 km,23 °C,41 °C
+2026-04-27 11:28:52,manila,,30 °C,Cloudy.,36 / 27 °C,40 °C,21 km/h,↑,1012 mbar,8 km,23 °C,41 °C
+2026-04-27 11:28:52,manila,,30 °C,Showers early. Cloudy.,36 / 27 °C,42 °C,21 km/h,↑,1012 mbar,8 km,23 °C,41 °C
+2026-04-27 11:28:52,manila,,30 °C,Cloudy.,36 / 27 °C,41 °C,21 km/h,↑,1012 mbar,8 km,23 °C,41 °C
+2026-04-27 11:28:52,manila,,30 °C,Cloudy.,36 / 26 °C,41 °C,21 km/h,↑,1012 mbar,8 km,23 °C,41 °C
+2026-04-27 11:29:04,manila,,30 °C,Isolated tstorms late. Mostly cloudy.,36 / 27 °C,41 °C,21 km/h,↑,1012 mbar,8 km,23 °C,41 °C
+2026-04-27 11:29:04,manila,,30 °C,Showers late. Cloudy.,36 / 27 °C,40 °C,21 km/h,↑,1012 mbar,8 km,23 °C,41 °C
+2026-04-27 11:29:04,manila,,30 °C,Isolated tstorms late. Mostly cloudy.,36 / 27 °C,41 °C,21 km/h,↑,1012 mbar,8 km,23 °C,41 °C
+2026-04-27 11:29:04,manila,,30 °C,Cloudy.,36 / 27 °C,40 °C,21 km/h,↑,1012 mbar,8 km,23 °C,41 °C
+2026-04-27 11:29:04,manila,,30 °C,Showers early. Cloudy.,36 / 27 °C,42 °C,21 km/h,↑,1012 mbar,8 km,23 °C,41 °C
+2026-04-27 11:29:04,manila,,30 °C,Cloudy.,36 / 27 °C,41 °C,21 km/h,↑,1012 mbar,8 km,23 °C,41 °C
+2026-04-27 11:29:04,manila,,30 °C,Cloudy.,36 / 26 °C,41 °C,21 km/h,↑,1012 mbar,8 km,23 °C,41 °C
+2026-04-27 11:29:16,manila,,30 °C,Isolated tstorms late. Mostly cloudy.,36 / 27 °C,41 °C,21 km/h,↑,1012 mbar,8 km,23 °C,41 °C
+2026-04-27 11:29:16,manila,,30 °C,Showers late. Cloudy.,36 / 27 °C,40 °C,21 km/h,↑,1012 mbar,8 km,23 °C,41 °C
+2026-04-27 11:29:16,manila,,30 °C,Isolated tstorms late. Mostly cloudy.,36 / 27 °C,41 °C,21 km/h,↑,1012 mbar,8 km,23 °C,41 °C
+2026-04-27 11:29:16,manila,,30 °C,Cloudy.,36 / 27 °C,40 °C,21 km/h,↑,1012 mbar,8 km,23 °C,41 °C
+2026-04-27 11:29:16,manila,,30 °C,Showers early. Cloudy.,36 / 27 °C,42 °C,21 km/h,↑,1012 mbar,8 km,23 °C,41 °C
+2026-04-27 11:29:16,manila,,30 °C,Cloudy.,36 / 27 °C,41 °C,21 km/h,↑,1012 mbar,8 km,23 °C,41 °C
+2026-04-27 11:29:16,manila,,30 °C,Cloudy.,36 / 26 °C,41 °C,21 km/h,↑,1012 mbar,8 km,23 °C,41 °C
+2026-04-27 12:46:33,manila,,34 °C,Isolated tstorms late. Broken clouds.,36 / 27 °C,41 °C,21 km/h,↑,1010 mbar,8 km,21 °C,41 °C
+2026-04-27 12:46:33,manila,,34 °C,Showers late. Mostly cloudy.,36 / 27 °C,40 °C,21 km/h,↑,1010 mbar,8 km,21 °C,41 °C
+2026-04-27 12:46:33,manila,,34 °C,Cloudy.,36 / 27 °C,41 °C,21 km/h,↑,1010 mbar,8 km,21 °C,41 °C
+2026-04-27 12:46:33,manila,,34 °C,Cloudy.,36 / 26 °C,41 °C,21 km/h,↑,1010 mbar,8 km,21 °C,41 °C
+2026-04-27 12:46:33,manila,,34 °C,Passing showers. Broken clouds.,36 / 26 °C,42 °C,21 km/h,↑,1010 mbar,8 km,21 °C,41 °C
+2026-04-27 12:46:33,manila,,34 °C,Cloudy.,36 / 27 °C,41 °C,21 km/h,↑,1010 mbar,8 km,21 °C,41 °C
+2026-04-27 12:46:33,manila,,34 °C,Showers late. Cloudy.,36 / 26 °C,41 °C,21 km/h,↑,1010 mbar,8 km,21 °C,41 °C
+2026-04-27 12:46:44,manila,,34 °C,Isolated tstorms late. Broken clouds.,36 / 27 °C,41 °C,21 km/h,↑,1010 mbar,8 km,21 °C,41 °C
+2026-04-27 12:46:44,manila,,34 °C,Showers late. Mostly cloudy.,36 / 27 °C,40 °C,21 km/h,↑,1010 mbar,8 km,21 °C,41 °C
+2026-04-27 12:46:44,manila,,34 °C,Cloudy.,36 / 27 °C,41 °C,21 km/h,↑,1010 mbar,8 km,21 °C,41 °C
+2026-04-27 12:46:44,manila,,34 °C,Cloudy.,36 / 26 °C,41 °C,21 km/h,↑,1010 mbar,8 km,21 °C,41 °C
+2026-04-27 12:46:44,manila,,34 °C,Passing showers. Broken clouds.,36 / 26 °C,42 °C,21 km/h,↑,1010 mbar,8 km,21 °C,41 °C
+2026-04-27 12:46:44,manila,,34 °C,Cloudy.,36 / 27 °C,41 °C,21 km/h,↑,1010 mbar,8 km,21 °C,41 °C
+2026-04-27 12:46:44,manila,,34 °C,Showers late. Cloudy.,36 / 26 °C,41 °C,21 km/h,↑,1010 mbar,8 km,21 °C,41 °C
+2026-04-27 12:47:01,manila,,34 °C,Isolated tstorms late. Broken clouds.,36 / 27 °C,41 °C,21 km/h,↑,1010 mbar,8 km,21 °C,41 °C
+2026-04-27 12:47:01,manila,,34 °C,Showers late. Mostly cloudy.,36 / 27 °C,40 °C,21 km/h,↑,1010 mbar,8 km,21 °C,41 °C
+2026-04-27 12:47:01,manila,,34 °C,Cloudy.,36 / 27 °C,41 °C,21 km/h,↑,1010 mbar,8 km,21 °C,41 °C
+2026-04-27 12:47:01,manila,,34 °C,Cloudy.,36 / 26 °C,41 °C,21 km/h,↑,1010 mbar,8 km,21 °C,41 °C
+2026-04-27 12:47:01,manila,,34 °C,Passing showers. Broken clouds.,36 / 26 °C,42 °C,21 km/h,↑,1010 mbar,8 km,21 °C,41 °C
+2026-04-27 12:47:01,manila,,34 °C,Cloudy.,36 / 27 °C,41 °C,21 km/h,↑,1010 mbar,8 km,21 °C,41 °C
+2026-04-27 12:47:01,manila,,34 °C,Showers late. Cloudy.,36 / 26 °C,41 °C,21 km/h,↑,1010 mbar,8 km,21 °C,41 °C
